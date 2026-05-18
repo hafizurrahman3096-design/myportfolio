@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "C:\\Users\\HAFIZUR\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\HAFIZUR\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "c:\\Users\\HAFIZUR\\OneDrive\\Desktop\\portfolio",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "C:\\Users\\HAFIZUR\\.jetro\\runtime;C:\\Program Files\\Microsoft\\jdk-17.0.18.8-hotspot\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin;C:\\composer;C:\\Program Files\\MongoDB\\Server\\8.2\\bin;C:\\Users\\HAFIZUR\\.config\\herd\\bin\\nvm;C:\\Program Files\\nodejs;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\GnuWin32;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Python\\Python311\\;C:\\Users\\HAFIZUR\\.config\\herd\\bin;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\HAFIZUR\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\HAFIZUR\\AppData\\Local\\JetBrains\\Toolbox\\scripts;C:\\php-8.4.13;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Kiro\\bin;D:\\Windsurf\\bin;C:\\Users\\HAFIZUR\\flutter\\bin;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Qoder\\bin;C:\\Users\\HAFIZUR\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\mongosh\\;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Antigravity\\bin;C:\\Program Files\\Git\\bin;C:\\Program Files (x86)\\GnuWin32\\bin;C:\\Users\\HAFIZUR\\.local\\bin;C:\\Users\\HAFIZUR\\AppData\\Roaming\\npm;C:\\Program Files (x86)\\GnuWin32\\bin;C:\\MinGW\\bin;;C:\\Users\\HAFIZUR\\AppData\\Local\\Programs\\Ollama;C:\\Users\\HAFIZUR\\AppData\\Local\\Python\\bin"
+      }
+    }
+  }
+}
